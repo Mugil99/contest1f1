@@ -1,0 +1,36 @@
+body{
+    margin:0;
+}
+nav {
+    background-color: black;
+    width: 100%;
+    color: white;
+    height: 40px;
+    padding-top: 25px;
+}
+span {
+    margin-left: 30px;
+}
+h1 {
+    margin: 38px;
+}
+
+p {
+    margin: 38px;
+}
+#btn {
+    background-color: black;
+    color: white;
+    width: 100px;
+    height: 30px;
+    margin-left:38px;
+}
+img{
+    margin: 38px;
+}
+ol{
+ padding-left:54px;   
+}
+ul{
+    padding-left:54px;  
+}
